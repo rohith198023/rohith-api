@@ -1,1 +1,1 @@
-# rohith-api
+Simple Authenticated API in Go
